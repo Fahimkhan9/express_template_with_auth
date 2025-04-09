@@ -20,7 +20,7 @@ A template to start developing express project with mongoose.
 ```http
   POST /api/v1/users/login
 ```
-#### Logout user
+###### Logout user
 
 ```http
   POST /api/v1/users/logout
